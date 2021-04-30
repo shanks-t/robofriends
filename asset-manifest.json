@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/shanks-t/robofriends.git/static/css/main.99ccd839.chunk.css",
-    "main.js": "/shanks-t/robofriends.git/static/js/main.9c6f1bff.chunk.js",
-    "main.js.map": "/shanks-t/robofriends.git/static/js/main.9c6f1bff.chunk.js.map",
-    "runtime-main.js": "/shanks-t/robofriends.git/static/js/runtime-main.90a6278e.js",
-    "runtime-main.js.map": "/shanks-t/robofriends.git/static/js/runtime-main.90a6278e.js.map",
-    "static/css/2.fe359a49.chunk.css": "/shanks-t/robofriends.git/static/css/2.fe359a49.chunk.css",
-    "static/js/2.df928947.chunk.js": "/shanks-t/robofriends.git/static/js/2.df928947.chunk.js",
-    "static/js/2.df928947.chunk.js.map": "/shanks-t/robofriends.git/static/js/2.df928947.chunk.js.map",
-    "static/js/3.a1796986.chunk.js": "/shanks-t/robofriends.git/static/js/3.a1796986.chunk.js",
-    "static/js/3.a1796986.chunk.js.map": "/shanks-t/robofriends.git/static/js/3.a1796986.chunk.js.map",
-    "index.html": "/shanks-t/robofriends.git/index.html",
-    "static/css/2.fe359a49.chunk.css.map": "/shanks-t/robofriends.git/static/css/2.fe359a49.chunk.css.map",
-    "static/css/main.99ccd839.chunk.css.map": "/shanks-t/robofriends.git/static/css/main.99ccd839.chunk.css.map",
-    "static/js/2.df928947.chunk.js.LICENSE.txt": "/shanks-t/robofriends.git/static/js/2.df928947.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/shanks-t/robofriends.git/static/media/AstrolabRegular-ByOn.9eeb7ee1.woff"
+    "main.css": "/robofriends/static/css/main.c844480a.chunk.css",
+    "main.js": "/robofriends/static/js/main.9c6f1bff.chunk.js",
+    "main.js.map": "/robofriends/static/js/main.9c6f1bff.chunk.js.map",
+    "runtime-main.js": "/robofriends/static/js/runtime-main.a644d0bf.js",
+    "runtime-main.js.map": "/robofriends/static/js/runtime-main.a644d0bf.js.map",
+    "static/css/2.fe359a49.chunk.css": "/robofriends/static/css/2.fe359a49.chunk.css",
+    "static/js/2.df928947.chunk.js": "/robofriends/static/js/2.df928947.chunk.js",
+    "static/js/2.df928947.chunk.js.map": "/robofriends/static/js/2.df928947.chunk.js.map",
+    "static/js/3.a1796986.chunk.js": "/robofriends/static/js/3.a1796986.chunk.js",
+    "static/js/3.a1796986.chunk.js.map": "/robofriends/static/js/3.a1796986.chunk.js.map",
+    "index.html": "/robofriends/index.html",
+    "static/css/2.fe359a49.chunk.css.map": "/robofriends/static/css/2.fe359a49.chunk.css.map",
+    "static/css/main.c844480a.chunk.css.map": "/robofriends/static/css/main.c844480a.chunk.css.map",
+    "static/js/2.df928947.chunk.js.LICENSE.txt": "/robofriends/static/js/2.df928947.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/robofriends/static/media/AstrolabRegular-ByOn.9eeb7ee1.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.90a6278e.js",
+    "static/js/runtime-main.a644d0bf.js",
     "static/css/2.fe359a49.chunk.css",
     "static/js/2.df928947.chunk.js",
-    "static/css/main.99ccd839.chunk.css",
+    "static/css/main.c844480a.chunk.css",
     "static/js/main.9c6f1bff.chunk.js"
   ]
 }
